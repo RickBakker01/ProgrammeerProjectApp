@@ -10,4 +10,4 @@ Furthermore, my map works now. onSavedInstanceState works as well.
 
 # Day 3 
 
-Day started with Github problems again
+Day started with Github problems again. And I don't know why.
