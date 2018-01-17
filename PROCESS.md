@@ -7,3 +7,7 @@ I started with creating my map. I listened to the comments of the staff and deci
 
 Something was wrong with my original repo. After talking to Renske, she tried saving it, but it didn't work. Had to make a new one. 
 Furthermore, my map works now. onSavedInstanceState works as well.
+
+# Day 3 
+
+Day started with Github problems again
